@@ -72,3 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 Bu loyihani ishlatmochi bulsang pulini to'la
+
+alo
