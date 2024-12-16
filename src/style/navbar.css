@@ -1,0 +1,17 @@
+nav{
+  border-bottom: 0.8px solid gray;
+  padding: 5px 0px;
+}
+
+nav .nav-items{
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+}
+
+.nav-box{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
